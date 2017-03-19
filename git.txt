@@ -105,7 +105,6 @@ PHP-FIG
 bowser
 phpwind_sql_doc
 shadowsocks-android
-asuswrt-merlin
 Do-you-like-me
 ddwrt-adbp-to-privoxy
 WifiChat
